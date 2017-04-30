@@ -23,7 +23,6 @@
             <table>
                 <thead>
                     <tr>
-                        <th>ID</th>
                         <th>NAME</th>
                         <th>OWNER</th>
                     </tr>
